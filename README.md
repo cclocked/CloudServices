@@ -24,8 +24,8 @@ There was an issue with getting the data from the virtual raspberryPi to the dat
 
 
 ## Thoughts about improvment, what went wrong and possible solutions
-- One of the big issues with the final stages of the project was the visualization of the data, I would have loved to use the embedded Power BI in azure to show my data but the plan was way to expensive for a school project. So finding a better solution to show data would had been a preferable solution to using the exact same app but not on the cloud.
-- Another thing was the encryption that occured with the virtual raspberryPi which was a thorn in the side. I did contemplate to send the data to python, decode it there to later send it back decrypted. But that felt like overkill. I belive that if i would have owned my own device that was capable of conecting to the internet it would maybe have made things easier.
+
+- A big issue was the encryption that occured with the virtual raspberryPi which was a real thorn in the side. I did contemplate to send the data to python, decode it there to later send it back decrypted. But that felt like overkill. I belive that if i would have owned my own device that was capable of conecting to the internet it would maybe have made things easier.
 Other than that im pretty content with the project as a whole and feel I have acomplished what is asked of me to complete the task as it contains,
 - A simple IoT design, with the raspberry and platform.
 - Cloud services related to IoT
