@@ -10,7 +10,7 @@ Microsoft Azure. The project relies on some SaaS from the Azure platform in the 
 During the projects course i've tried a wide array of services and methods to try and achive the goal of getting data to storage and displaying it, such as node.js,vanilla js, python, azure function etc. The components that made the cut for the projects were as followed:
 - A very simple python program i wrote which took data from openweathermap api to the cosmos databas with the help of the azure/cosmos sdk.
 - The virtual raspberry pi provided by Azure
-- Message routing in Azure to get the telementery messeages from the raspberrypi to the database.
+- Message routing in Azure to get the telemetry messeages from the raspberrypi to the database.
 - A cosmos DB database to facilitate the data and be used to display the readings.
 - Power Bi visualization for the data.
 - In the begning I worked with Javascript to create a webapp that took data directly from openweathermaps API and showed it on the webapp it looked like this , 
