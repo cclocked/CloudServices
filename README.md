@@ -7,7 +7,10 @@ The purpose of the project was to complete a task for a school asignment and lea
 Microsoft Azure. The project relies on some SaaS from the Azure platform in the form of software,virtualization and storage etc .
 
 ## Components used in the project and execution:
-During the projects course i've tried a wide array of services and methods to try and achive the goal of getting data to storage and displaying it, such as node.js,vanilla js, python, azure function etc. The components that made the cut for the projects were as followed:
+![picturecloud](https://user-images.githubusercontent.com/113606983/207453020-408d65d2-981e-4d27-b6ba-67eba509fe75.png)
+
+
+During the projects course i've tried a wide array of services and methods to try and achive the goal of getting data to storage and displaying it, such as node.js,vanilla js, python, azure function etc. The components that made the cut for the projects were as followed(Im probably forgetting somethings):
 - A very simple python program i wrote which took data from openweathermap api to the cosmos databas with the help of the azure/cosmos sdk.
 - The virtual raspberry pi provided by Azure
 - Message routing in Azure to get the telemetry messeages from the raspberrypi to the database.
