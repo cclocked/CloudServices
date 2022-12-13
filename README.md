@@ -4,7 +4,7 @@ School project, working with Microsoft Azure
 
 ## Backround
 The purpose of the project was to complete a task for a school asignment and learn more about working with cloud services, where i have choosen to work with
-Microsoft Azure. The project it self relies on some SaaS from the Azure platform.
+Microsoft Azure. The project relies on some SaaS from the Azure platform in the form of software,virtualization and storage etc .
 
 ## Components used in the project and execution:
 During the projects course i've tried a wide array of services and methods to try and achive the goal of getting data to storage and displaying it, such as node.js,vanilla js, python, azure function etc. The components that made the cut for the projects were as followed:
