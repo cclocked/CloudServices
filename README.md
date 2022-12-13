@@ -17,7 +17,7 @@ During the projects course i've tried a wide array of services and methods to tr
 
 
   ![jsgrej](https://user-images.githubusercontent.com/113606983/207416753-5d731d61-531f-4c50-b6f1-640bdb01c1cb.jpg)
-But since the criteria for a grade was to display data with the use of cloud services, I decided to instead use Micrososfts Power BI which is included in the Azure platform to satisfy the requirement.
+But since the criteria for a grade was to display data with the use of cloud services, I decided to instead use Micrososfts Power BI since it is included in the Azure platform to satisfy the requirement.
 The final visualization based on a few exerts from the database looked like this, taken from Power BI,
 ![powerbi temps](https://user-images.githubusercontent.com/113606983/207444096-c06ce69f-011c-40c0-ab97-83ab73b8a4e9.png)
 There was an issue with getting the data from the virtual raspberryPi to the database in JSON format beacuse it was encrypted with base64, and none of the changed applied to the message-route seemed to make any difference. Same issue with the Raspberry code itself, trying to change to json format with utf-8 was futile. So what I had to do was to convert the raspberries messages from base64 to json and then insert to a csv file which I then upploaded to Power BI to display the data.
